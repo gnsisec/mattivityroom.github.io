@@ -1,2 +1,3 @@
-	name: Mattivityroom
-	markdown: kramdown
+name: Mattivityroom
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
